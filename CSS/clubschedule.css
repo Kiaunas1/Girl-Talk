@@ -1,0 +1,45 @@
+body {
+    height: 50%;
+    text-align: left;
+    width: 97%;
+    background-image: url("/colorful walpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: left;
+    font-size: 40px;
+    letter-spacing: 10px;
+    font-family: "Times New Roman", Times, serif;
+    color: #ffcc00;
+    margin: 10px;
+}
+
+p {
+    color: #ffcc00;
+    margin: 100px;
+    text-align: center;
+    font-size: 25px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #ffcc00;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}

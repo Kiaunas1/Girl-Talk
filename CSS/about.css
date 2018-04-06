@@ -1,0 +1,47 @@
+body {
+    height: 50%;
+    text-align: left;
+    width: 97%;
+    background-image: url("/Geometric Pink Wallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff
+}
+
+p {
+    color: #800060;
+    margin: 100px;
+    text-align: center;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: left;
+    font-size: 40px;
+    letter-spacing: 10px;
+    font-family: "Times New Roman", Times, serif;
+    color: #800060;
+    margin: 10px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #800060;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}

@@ -1,0 +1,50 @@
+body {
+    height: 50%;
+    text-align: left;
+    width: 97%;
+    background-image: url("/Geometric Blue Wallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff
+}
+
+h1 {
+    text-align: left;
+    font-size: 50px;
+    letter-spacing: 10px;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    margin: 10px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #000099;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    margin: 50px;
+    color: #000099;
+    font-size: 20px;
+}
+
+
+
