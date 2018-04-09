@@ -2,7 +2,7 @@ body {
     height: 50%;
     text-align: left;
     width: 97%;
-    background-image: url("/pink colorful image.png");
+    background-image: url("./pink colorful image.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
