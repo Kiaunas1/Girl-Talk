@@ -2,7 +2,7 @@ body {
 	height:50%;
 	text-align: left;
 	width: 97%;
-	background-image: url("/pastel wallpaper.png");
+	background-image: url("./pastel wallpaper.png");
 	background-repeat:no-repeat;
 	background-size:cover;
 }
