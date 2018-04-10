@@ -2,7 +2,7 @@ body {
 	height:50%;
 	text-align: center;
 	width: 97%;
-	background-image: url("/Geometric Blue Wallpaper.png");
+	background-image: url("./Geometric Blue Wallpaper.png");
 	background-repeat:no-repeat;
 	background-size:cover;
 }
