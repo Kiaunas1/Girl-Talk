@@ -2,7 +2,7 @@ body {
 	height:50%;
 	text-align: left;
 	width: 97%;
-	background-image: url("/orange wallpapaer.png");
+	background-image: url("./orange wallpapaer.png");
 	background-repeat:no-repeat;
 	background-size:cover;
 }
